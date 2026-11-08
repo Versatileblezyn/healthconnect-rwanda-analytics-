@@ -109,29 +109,6 @@ The project documentation is organised around the following deliverables:
 - Dashboard screenshots and evidence.
 - Final project presentation.
 
-## Project Structure
-
-```text
-healthconnect-rwanda-analytics/
-│
-├── README.md
-│
-├── dashboard/
-│   └── HealthConnect_PowerBI_Dashboard.pbix
-│
-├── sql/
-│   └── SQL_Analysis_and_Validation.sql
-│
-├── reports/
-│   └── HealthConnect_Week8_Final_Analytics_Report.docx
-│
-├── evidence/
-│   └── Week7_Testing_and_Validation/
-│
-└── presentation/
-    └── HealthConnect_Week8_Final_Presentation.pptx
-```
-
 *The folder structure is a proposed organisation. Add only files that have actually been placed in the repository.*
 
 ## Conclusion
