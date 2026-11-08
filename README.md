@@ -1,4 +1,4 @@
-# HealthConnect Rwanda – Data Analytics Project
+# HealthConnect Rwanda - Data Analytics Project
 
 ## Project Overview
 
